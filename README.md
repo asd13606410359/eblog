@@ -71,7 +71,6 @@ eblog
 #### 知识要点：
 * 基于mybatis plus快速代码生成
 * 封装与自定义Freemarker标签
-* 使用shiro+redis完成了会话共享
 * redis的zset结构完成本周热议排行榜
 * t-io+websocket完成即时消息通知和群聊
 * 基于rabbitmq+elasticsearch的内容同步与搜索引擎
@@ -92,7 +91,7 @@ eblog
 
 #### 如何交流、反馈？
 
-* 详细开发文档：https://www.markerhub.com/project/8
+* 详细开发文档：https://juejin.im/post/5ee88c58518825434c3db0e5
 * Git仓库：[https://github.com/MarkerHub/eblog](https://github.com/MarkerHub/eblog)
 * 官方微信：**java-mindman3**
 * 技术讨论、问题和建议，请移步到公众号【MarkerHub】菜单栏留言区，我会在第一时间进行解答和回复！
